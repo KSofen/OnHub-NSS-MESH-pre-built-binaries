@@ -2,7 +2,7 @@ Last version of OnHub pre-built binaries with NSS support.
 
 This version of the firmware includes MESH and relayd support
 
-Final kernel SNAPSHOT from OpenWrt 23.05.XX firmware iteration.
+Final kernel SNAPSHOT from OpenWrt 23.05.XX firmware iteration (5.15.173)
 
 If you are not using MESH, disable startup of mesh11sd service.
 
